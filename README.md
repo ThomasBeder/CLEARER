@@ -1,7 +1,8 @@
 # CLEARER
-Essential gene prediction acorss eukarotes
+Essential gene prediction across eukaryotes by machine learning.
+Please find the preprint of CLEARER on https://www.biorxiv.org/content/10.1101/2021.04.15.439934v1.
 Attention!
-Feature generation is examplified for Saccharomyces cerevisia
+Feature generation is exemplified for Saccharomyces cerevisiae
 Feature generation and machine learning is time consuming and all data sets with generated features as well as trained machines can be send upon request
 Feature names and tools to generate them are listed in "Feature_description.csv". Any questions to thomasbeder7@gmail.com.
 
