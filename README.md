@@ -1,7 +1,7 @@
 # CLassifier of Essentiality AcRoss EukaRyotes (CLEARER)
 ---------------------------------------------------------------------------------
 #CLAERER is a machine learning approach for essential gene #prediction across eukaryotes 
-# ATTENTION: Please find the archieved source code, data sets and trained machines on 
+# ATTENTION: Please find the archieved source code, data sets and trained machines on Zenodo (https://doi.org/10.5281/zenodo.5557738).
 Please find the preprint describing CLEARER on https://www.biorxiv.org/content/10.1101/2021.04.15.439934v1. 
 CLEAERER uses many diverse features which can be generated based on the scripts in "/Feature_generation" directory. 
 Feature names and tools to generate them are listed in "Feature_description.csv". 
